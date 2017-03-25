@@ -27,4 +27,4 @@ We are hoping to include features like
 1. Ability to optimize commuting time to and from school.
 
 ## Beneficiaries
-Any student or teacher at CSUSM that is required to commute to school.
+Any student or teacher at CSUSM that is required to commute to or park at school.
