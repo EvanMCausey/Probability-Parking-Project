@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Activities.LoginActivity">
+        <activity android:name=".MainActivity" android:label="Park">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -18,6 +18,13 @@
         </activity>
 
         <activity android:name=".Activities.RegisterActivity" android:label="Register"/>
+        <activity android:name=".Activities.LoginActivity" android:label="Login"/>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBEcanyZ_eAVharRoNlJGp2QoTsYNz4KRo" />
+
+
 
     </application>
 
